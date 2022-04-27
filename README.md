@@ -1,1 +1,1 @@
-# Header
+# Automate posting a PDF file to a Wordpress site. The file is received via e-mail.
